@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I’m Rafna Salam!  
 
-<!--
-**Rafnasalam/RafnaSalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Passionate Web Developer | Web Designer | Tech Explorer  
 
-Here are some ideas to get you started:
+I love building creative and user-friendly applications, exploring new technologies, and constantly learning to level up my skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🌱 Constantly learning and evolving  
+- 💻 Self-driven and detail-oriented  
+- 🤝 Open to collaborating on open-source projects and new opportunities
+- 💡 Believer in “Learn, Build, Repeat” 
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript, React  
+- **Backend**: Node.js, Express, Python 
+- **Database**: MongoDB, MySQL  
+- **Other**: Git, Figma,  
+
+🌱 **Currently Learning:**  
+- MERN Stack  
+- Cloud Deployments (AWS, Vercel)   
+
+📫 **Contact Me:**  
+- ✉️ [rafnasalam41@gmail.com]  
+- 💼 [LinkedIn Profile]( https://www.linkedin.com/in/rafna-salam41/)  
+
+ > *“Don’t watch the clock; do what it does. Keep going.” – Sam Levenson*  
+
+
